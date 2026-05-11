@@ -353,6 +353,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Access to research papers, genetic data, and specialized datasets.
 
+- [HeroHunt People Search](https://github.com/herohunt-ai/herohunt-mcp) - People search API. Find 1 billion candidates across LinkedIn and GitHub using natural language. Enrich with verified emails and phones.
+
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
